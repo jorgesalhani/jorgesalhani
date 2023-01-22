@@ -6,7 +6,6 @@ Here I try to keep everything from my study time. From [Mechanical Statistics](h
 
 They all might be incomplete, but...
 ![image](https://user-images.githubusercontent.com/49768010/213930757-8d3348f2-2d39-4962-9ed8-d508a2e27380.png)
-img[alt=drawing] { width: 200px; }
  
 With love!
 
